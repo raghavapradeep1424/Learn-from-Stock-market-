@@ -8,4 +8,4 @@
 		4. Company-Specific Events (with sentiment noted)
 		5. IPOs/Bonus Updates
 		6. New Contracts/Orders
-For each event, explain it clearly and in full detail. Mention sentiment (positive/negative/neutral) and affected companies. Avoid tables. Use only bullet points.<img width="922" height="270" alt="image" src="https://github.com/user-attachments/assets/63120844-7773-497e-b4ee-56775e6d3660" />
+For each event, explain it clearly and in full detail. Mention sentiment (positive/negative/neutral) and affected companies. Avoid tables.
